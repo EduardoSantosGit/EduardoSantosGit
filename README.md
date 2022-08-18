@@ -8,7 +8,6 @@ Um apaixonado por tecnologia, esporte, finanças e educação, sempre em movimen
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSantosGit&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<br/>
 
 ## Tecnologias que uso no meu dia
 <br/>
@@ -22,8 +21,6 @@ Um apaixonado por tecnologia, esporte, finanças e educação, sempre em movimen
 </div><br/>
 
 ## Redes Sociais
-
-<br/>
 
 <div> 
   <a href="https://www.linkedin.com/in/eduardo-psantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
