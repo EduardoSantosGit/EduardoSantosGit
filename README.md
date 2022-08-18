@@ -10,7 +10,7 @@ Um apaixonado por tecnologia, esporte, finanças e educação, sempre em movimen
 
 
 ## Tecnologias que uso no meu dia
-<br/>
+
 <div style="display: inline_block">
   <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
